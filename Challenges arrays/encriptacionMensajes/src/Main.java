@@ -14,12 +14,5 @@ public class Main {
             return;
             
     }
-    private static void descifrarMensaje(String mensajeCifrado, int desplazamiento , String linea){
-        for (int i = 0; i <mensajeCifrado.length() ; i++) {
-            char letra = linea.charAt(i)
-        }
-    }
-    public static void main(String[] args) {
-
-    }
+    
 }
